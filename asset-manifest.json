@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shashankp36/fitness_club_Bullseye/static/css/main.3dc69247.css",
+    "main.js": "/Shashankp36/fitness_club_Bullseye/static/js/main.283db384.js",
+    "index.html": "/Shashankp36/fitness_club_Bullseye/index.html",
+    "main.3dc69247.css.map": "/Shashankp36/fitness_club_Bullseye/static/css/main.3dc69247.css.map",
+    "main.283db384.js.map": "/Shashankp36/fitness_club_Bullseye/static/js/main.283db384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc69247.css",
+    "static/js/main.283db384.js"
+  ]
+}
